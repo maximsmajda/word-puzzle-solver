@@ -1,0 +1,11 @@
+{
+  "name": "word-puzzle",
+  "version": "1.0.0",
+  "description": "Solve word puzzle",
+  "main": "index.js",
+  "author": "Maxim Smajda",
+  "license": "ISC",
+  "dependencies": {
+    "async-ocrad": "^0.0.2"
+  }
+}
